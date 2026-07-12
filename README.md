@@ -1,1 +1,3 @@
-This portfolio project was built using HTML, CSS, and JavaScript. Check it out here: (https://fikrixfajar.github.io) 
+## Demo
+This portfolio website was created using **HTML, CSS, and JavaScript**.  
+You can view it here:  (https://fikrixfajar.github.io) 
